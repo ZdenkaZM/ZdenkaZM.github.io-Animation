@@ -1,3 +1,5 @@
 # ZdenkaZM.github.io-animation  
 
-Stránka testovacích animácii
+Stránka testovania animácii  
+
+LINK: https://zdenkazm.github.io/ZdenkaZM.github.io-animation/
